@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd21ba10-f9cd-48a4-a694-77d04d7f419c" name="Changes" comment="">
+    <list default="true" id="dd21ba10-f9cd-48a4-a694-77d04d7f419c" name="Changes" comment="working checkResources &amp; coffeeRequirement functionalities">
       <change afterPath="$PROJECT_DIR$/.idea/Demo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -30,6 +30,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/amitfjain/python.git",
+    "accountId": "3150b17a-d8bc-44fe-906b-0d3cf5d71599"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -64,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716741324411</updated>
     </task>
+    <task id="LOCAL-00001" summary="working checkResources &amp; coffeeRequirement functionalities">
+      <option name="closed" value="true" />
+      <created>1716751972107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716751972107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working checkResources &amp; coffeeRequirement functionalities" />
+    <option name="LAST_COMMIT_MESSAGE" value="working checkResources &amp; coffeeRequirement functionalities" />
   </component>
 </project>
